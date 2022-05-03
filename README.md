@@ -1,5 +1,11 @@
 # index
 
+## CI/CD
+| Repo | Meta |
+|---|---|
+| [cicd-cloudapp](https://github.com/tullo/cicd-cloudapp) | CI/CD pipeline with github actions |
+
+
 ## Go Projects
 | Repo | Meta |
 |---|---|
