@@ -14,7 +14,7 @@
 ## Go Projects
 | Repo | Meta |
 |---|---|
-| [bun-realworld-app](https://github.com/tullo/bun-realworld-app) | RealWorld JSON API as specified in the [spec](https://github.com/gothinkster/realworld). Uses: `Bun Router`, `Bun DB`, `bun/migrate`, `bun/dbfixture` |
+| [bun-realworld-app](https://github.com/tullo/bun-realworld-app) | RealWorld JSON API as specified in the [spec](https://github.com/gothinkster/realworld). Uses: `Bun Router`, `Bun DB`, `bun/migrate`, `bun/dbfixture` [bun Go ORM](https://bun.uptrace.dev/) |
 | [conf](https://github.com/tullo/conf) | Provides support for using environment variables and command line arguments for configuration |
 | [CRDB](https://github.com/tullo/crdb) | CockroachDB for local dev using Go DB drivers, Go ORM libs, CRDB testserver package, Migrations Test, CRDB Docker Container |
 | [microservice](https://github.com/tullo/microservice) | Add `.proto` file. Scaffold Go code. Implement gRPC service. Done. (Drone CI, Elastic APM) |
