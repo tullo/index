@@ -21,6 +21,8 @@
 | [microservice](https://github.com/tullo/microservice) | Add `.proto` file. Scaffold Go code. Implement gRPC service. Done. (Drone CI, Elastic APM) |
 | [otel-workshop](https://github.com/tullo/otel-workshop) | OpenTelemetry instrumentation of code for tracing and metrics collection using different exporters: Aspecto, Datadog, Elastic, Honeycomb, Instana, Lightstep, LogicMonitor, New Relic, SigNoz, Sentry, Splunk, Sumo Logic, Uptrace |
 | [proxercise](https://github.com/tullo/proxercise/tree/main/go) | Examples, Exercises, Quizzes, Go cheat-sheet, Useful Terminal Control Sequences |
+| [service](https://github.com/tullo/service) | Go service starter kit is a starting point for building production grade scalable web service applications |
+| [snptx](https://github.com/tullo/snptx) | Go web application (argon2id, embed, pgx, migrate, pat, middleware, sessions, dockertest) |
 | [shippy](https://github.com/tullo/shippy) | microservice, protobuf, grpc-go, Bootstrap4, MongoDB, PostgreSQL,, Reactjs |
 | [short](https://github.com/tullo/short) | A short-link server Go application, powered by CockroachDB |
 | [wikifeedia](https://github.com/tullo/wikifeedia) | CockroachDB [Follower Reads](https://www.cockroachlabs.com/docs/stable/topology-follower-reads.html), server and crawler Go applications, webapp uses [React](https://reactjs.org/) and [Apollo](https://www.apollographql.com/) GraphQL |
