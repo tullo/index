@@ -14,6 +14,7 @@
 ## Go Projects
 | Repo | Meta |
 |---|---|
+| [microservice](https://github.com/tullo/microservice) | Add `.proto` file. Scaffold Go code. Implement gRPC service. Done. (Drone CI, Elastic APM) |
 | [wild-workouts-go-ddd](https://github.com/tullo/wild-workouts-go-ddd-example) | DDD, Clean Architecture, CQRS |
 | [proxercise](https://github.com/tullo/proxercise/tree/main/go) | Examples, Exercises, Quizzes |
 | [conf](https://github.com/tullo/conf) | Provides support for using environment variables and command line arguments for configuration   |
