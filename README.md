@@ -1,5 +1,10 @@
 # index
 
+##  Authn & Authz
+| Repo | Meta |
+|---|---|
+| [fusionauth](https://github.com/tullo/fusionauth) | User authn & authz using FusionAuth for secure access management |
+
 ## CI/CD
 | Repo | Meta |
 |---|---|
