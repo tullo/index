@@ -1,11 +1,13 @@
 # index
 
 ##  AuthN & AuthZ
+
 | Repo | Meta |
 |---|---|
 | [fusionauth](https://github.com/tullo/fusionauth) | User authn & authz using FusionAuth for secure access management |
 
 ## CI/CD
+
 | Repo | Meta |
 |---|---|
 | [cicd-cloudapp](https://github.com/tullo/cicd-cloudapp) | CI/CD pipeline with github actions |
@@ -31,3 +33,27 @@
 | [wikifeedia](https://github.com/tullo/wikifeedia) | CockroachDB [Follower Reads](https://www.cockroachlabs.com/docs/stable/topology-follower-reads.html), server and crawler Go applications, webapp uses [React](https://reactjs.org/) and [Apollo](https://www.apollographql.com/) GraphQL |
 | [wild-workouts-go-ddd](https://github.com/tullo/wild-workouts-go-ddd-example) | DDD, Clean Architecture, CQRS |
 
+## Tooling
+
+| Repo | Meta |
+|---|---|
+| [age](https://github.com/FiloSottile/age) | Secure file encryption tool, format, and Go library  |
+| [benchstat](https://cs.opensource.google/go/x/perf) | Computes statistical summaries and A/B comparisons of Go benchmarks |
+| [errcheck](https://github.com/kisielk/errcheck) | checking for unchecked errors in go programs |
+| [gofumpt](https://github.com/mvdan/gofumpt) | Enforce a stricter format than `gofmt` |
+| [hey](https://github.com/rakyll/hey) | Sends some load to a web application |
+| [kind](https://github.com/kubernetes-sigs/kind) | Kubernetes IN Docker |
+| [ko](https://github.com/google/ko) | Build and deploy Go applications on kubernetes |
+| [kubeval](https://github.com/instrumenta/kubeval) | Validates Kubernetes configuration files |
+| [kustomize](https://github.com/kubernetes-sigs/kustomize) | Customization of Kubernetes YAML configurations |
+| [kustomize-sops](https://github.com/viaduct-ai/kustomize-sops) | Kustomize Plugin for SOPS Encrypted Resources |
+| [mailhog](https://github.com/mailhog/MailHog) | Email testing tool for developers |
+| [mkcert](https://github.com/FiloSottile/mkcert) | Generate locally-trusted development certificates |
+| [oapi-codegen](https://github.com/deepmap/oapi-codegen) | OpenAPI v3 client and server code generator |
+| [postman](https://www.postman.com/downloads/) | Testing APIs |
+| [protobuf-go](https://github.com/protocolbuffers/protobuf-go) | Go support for Protocol Buffers |
+| [protoc](https://github.com/protocolbuffers/protobuf/releases) | Protocol Buffer compiler |
+| [protoc-gen-go-grpc](https://grpc.io/docs/languages/go/quickstart/) | gRPC Go plugin - generates client and server interfaces |
+| [sops](https://github.com/mozilla/sops) | Secrets OPerationS - tool for managing secrets |
+| [staticcheck](https://staticcheck.io/docs/running-staticcheck/cli/) | Advanced Go linter |
+| [structlayout](https://github.com/dominikh/go-tools/tree/master/cmd/structlayout) | Prints the layout of a struct - byte offset and size of each field, respecting alignment/padding |
