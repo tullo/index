@@ -16,7 +16,7 @@
 |---|---|
 | [bun-realworld-app](https://github.com/tullo/bun-realworld-app) | RealWorld JSON API as specified in the [spec](https://github.com/gothinkster/realworld). Uses: `Bun Router`, `Bun DB`, `bun/migrate`, `bun/dbfixture` [Go ORM](https://bun.uptrace.dev/) |
 | [conf](https://github.com/tullo/conf) | Provides support for using environment variables and command line arguments for configuration |
-| [CRDB](https://github.com/tullo/crdb) | CockroachDB for local dev using Go DB drivers, Go ORM libs, CRDB testserver package, Migrations Test, CRDB Docker Container |
+| [crdb](https://github.com/tullo/crdb) | CockroachDB for local dev using Go database drivers, Go ORM libs, crdb testserver package, migrations tests, crdb docker containers |
 | [dgraph-godoc-alice](https://github.com/tullo/dgraph-godoc-alice) | Dgraph [godoc](https://pkg.go.dev/github.com/dgraph-io/dgo/v2@v2.2.0) example usage of the Dgraph Go client API v200.03.0 (gRPC) |
 | [dgraph-travel](https://github.com/tullo/dgraph-travel) | Baseline for building graph database apps using [Dgraph](https://dgraph.io/) GraphQL |
 | [invoice-mvp](https://github.com/tullo/invoice-mvp) | Invoice REST [Level-3: HyperMedia/HATEOAS](https://devopedia.org/richardson-maturity-model) API, HAL [(Hypertext Application Language)](https://stateless.group/hal_specification.html) documents, use cases with [hexagonal architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html), or ports & adapters architecture, user authn & authz with IDP service and JWT, HTTP response caching |
