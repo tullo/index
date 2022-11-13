@@ -17,7 +17,7 @@
 ## Go Projects
 | Repo | Meta |
 |---|---|
-| [bun-realworld-app](https://github.com/tullo/bun-realworld-app) | RealWorld JSON API as specified in the [spec](https://github.com/gothinkster/realworld). Uses: `Bun Router`, `Bun DB`, `bun/migrate`, `bun/dbfixture` [Go ORM](https://bun.uptrace.dev/) |
+| [bun-realworld-app](https://github.com/tullo/bun-realworld-app) | Uses: `Bun Router`, `Bun DB`, `bun/migrate`, `bun/dbfixture` provided by [Bun Go ORM](https://bun.uptrace.dev/). Implements the realworld JSON API as specified in the [spec](https://github.com/gothinkster/realworld) |
 | [conf](https://github.com/tullo/conf) | Provides support for using environment variables and command line arguments for configuration |
 | [crdb](https://github.com/tullo/crdb) | CockroachDB for local dev using Go database drivers, Go ORM libs, crdb testserver package, migrations tests, crdb docker containers |
 | [dgraph-godoc-alice](https://github.com/tullo/dgraph-godoc-alice) | Dgraph [godoc](https://pkg.go.dev/github.com/dgraph-io/dgo/v2@v2.2.0) example usage of the Dgraph Go client API v200.03.0 (gRPC) |
