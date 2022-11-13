@@ -35,10 +35,12 @@
 | [wild-workouts-go-ddd](https://github.com/tullo/wild-workouts-go-ddd-example) | DDD, Clean Architecture, CQRS |
 
 ## Next.js
-nextjs-blog-theme
+
 | Repo | Meta |
 |---|---|
+| [keystone-sickfits](https://github.com/tullo/keystone-sickfits) | Frontend (React, Apollo Client, Next.js), Backend (Keystone.js, Node, MongoDB) |
 | [nextjs-blog-theme](https://github.com/tullo/nextjs-blog-theme) | Next.js, Tailwind blog template, using markdown, dark & light themes |
+
 
 ## Tooling
 
