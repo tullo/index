@@ -34,6 +34,12 @@
 | [wikifeedia](https://github.com/tullo/wikifeedia) | CockroachDB [Follower Reads](https://www.cockroachlabs.com/docs/stable/topology-follower-reads.html), server and crawler Go applications, webapp uses [React](https://reactjs.org/) and [Apollo](https://www.apollographql.com/) GraphQL |
 | [wild-workouts-go-ddd](https://github.com/tullo/wild-workouts-go-ddd-example) | DDD, Clean Architecture, CQRS |
 
+## Next.js
+nextjs-blog-theme
+| Repo | Meta |
+|---|---|
+| [nextjs-blog-theme](https://github.com/tullo/nextjs-blog-theme) | Next.js, Tailwind blog template, using markdown, dark & light themes |
+
 ## Tooling
 
 | Repo | Meta |
