@@ -13,6 +13,11 @@
 | [cicd-cloudapp](https://github.com/tullo/cicd-cloudapp) | CI/CD pipeline with github actions. Builds docker image, pushes image to Jfrog registry, deploys to kubernetes cluster using Helm chart |
 | [fly-app](https://github.com/tullo/flyapp-deploy-on-push) | CI/CD to Fly platform with github actions using buildpacks |
 
+## Cloud
+| Repo | Meta |
+|---|---|
+| [podspec](https://github.com/tullo/podspec) | Good defaults for the most common Kubernetes workloads. Adds security and uptime features |
+
 
 ## Go Projects
 | Repo | Meta |
