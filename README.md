@@ -39,6 +39,10 @@
 | [wikifeedia](https://github.com/tullo/wikifeedia) | CockroachDB [Follower Reads](https://www.cockroachlabs.com/docs/stable/topology-follower-reads.html), server and crawler Go applications, webapp uses [React](https://reactjs.org/) and [Apollo](https://www.apollographql.com/) GraphQL |
 | [wild-workouts-go-ddd](https://github.com/tullo/wild-workouts-go-ddd-example) | DDD, Clean Architecture, CQRS |
 
+## IaC - Infrastructure as Code
+
+- [Terraform](https://github.com/tullo/learning/tree/main/terraform)
+
 ## Next.js
 
 | Repo | Meta |
