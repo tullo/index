@@ -1,12 +1,12 @@
 # TOC
 
-[AuthN & AuthZ]()
-[CI/CD]()
-[Cloud]()
-[Go Projects]89
-[IaC]() - Infrastructure as Code
-[Next.js]()
-[Tooling]()
+- [AuthN & AuthZ]()
+- [CI/CD]()
+- [Cloud]()
+- [Go Projects]89
+- [IaC]() - Infrastructure as Code
+- [Next.js]()
+- [Tooling](#tooling)
 
 ##  AuthN & AuthZ
 
