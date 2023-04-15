@@ -4,7 +4,7 @@
 - [CI/CD](#cicd)
 - [Cloud](#cloud)
 - [Go Projects](#go-projects)
-- [IaC](#iac---infrastructure-as-code) - Infrastructure as Code
+- [IaC](#iac---infrastructure-as-code)
 - [Next.js](#nextjs)
 - [Tooling](#tooling)
 
