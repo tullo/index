@@ -5,7 +5,7 @@
 - [Cloud]()
 - [Go Projects]89
 - [IaC]() - Infrastructure as Code
-- [Next.js]()
+- [Next.js](#nextjs)
 - [Tooling](#tooling)
 
 ##  AuthN & AuthZ
