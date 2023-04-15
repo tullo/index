@@ -1,6 +1,6 @@
 # TOC
 
-- [AuthN & AuthZ]()
+- [AuthN & AuthZ](#authn--authz)
 - [CI/CD](#cicd)
 - [Cloud](#cloud)
 - [Go Projects](#go-projects)
