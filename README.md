@@ -1,8 +1,8 @@
 # TOC
 
 - [AuthN & AuthZ]()
-- [CI/CD]()
-- [Cloud]()
+- [CI/CD](#cicd)
+- [Cloud](#cloud)
 - [Go Projects](#go-projects)
 - [IaC](#iac---infrastructure-as-code) - Infrastructure as Code
 - [Next.js](#nextjs)
