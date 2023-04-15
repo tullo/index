@@ -83,3 +83,5 @@
 | [sops](https://github.com/mozilla/sops) | Secrets OPerationS - tool for managing secrets |
 | [staticcheck](https://staticcheck.io/docs/running-staticcheck/cli/) | Advanced Go linter |
 | [structlayout](https://github.com/dominikh/go-tools/tree/master/cmd/structlayout) | Prints the layout of a struct - byte offset and size of each field, respecting alignment/padding |
+
+[^^^^](#toc)
