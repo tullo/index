@@ -3,7 +3,7 @@
 - [AuthN & AuthZ]()
 - [CI/CD]()
 - [Cloud]()
-- [Go Projects]89
+- [Go Projects](#go-projects)
 - [IaC](#iac---infrastructure-as-code) - Infrastructure as Code
 - [Next.js](#nextjs)
 - [Tooling](#tooling)
