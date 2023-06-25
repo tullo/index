@@ -1,5 +1,6 @@
 # TOC
 
+- [Angular](#sngular)
 - [AuthN & AuthZ](#authn--authz)
 - [CI/CD](#cicd)
 - [Cloud](#cloud)
@@ -7,6 +8,9 @@
 - [IaC](#iac---infrastructure-as-code)
 - [Next.js](#nextjs)
 - [Tooling](#tooling)
+
+## Angular
+[Angular Mini Book, with Angular 15 and Spring Boot 3.0](https://github.com/mraible/angular-book/releases)
 
 ##  AuthN & AuthZ
 
