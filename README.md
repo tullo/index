@@ -24,6 +24,7 @@
 |---|---|
 | [cicd-cloudapp](https://github.com/tullo/cicd-cloudapp) | CI/CD pipeline with github actions. Builds docker image, pushes image to Jfrog registry, deploys to kubernetes cluster using Helm chart |
 | [fly-app](https://github.com/tullo/flyapp-deploy-on-push) | CI/CD to Fly platform with github actions using buildpacks |
+| [ci-postgres.yaml](https://github.com/tullo/crdb/blob/main/.github/workflows/ci-postgres.yaml) | CI testing with Go PostgreSQL github action service |
 
 ## Cloud
 | Repo | Meta |
