@@ -69,7 +69,7 @@
 
 | Repo | Meta |
 |---|---|
-| [age](https://github.com/FiloSottile/age) | Secure file encryption tool, format, and Go library  |
+| [age](https://github.com/FiloSottile/age) | Secure file encryption tool, format, and Go library (age-keygen, age --encrypt/--decrypt/--passphrase)  |
 | [benchstat](https://cs.opensource.google/go/x/perf) | Computes statistical summaries and A/B comparisons of Go benchmarks |
 | [errcheck](https://github.com/kisielk/errcheck) | checking for unchecked errors in go programs |
 | [gofumpt](https://github.com/mvdan/gofumpt) | Enforce a stricter format than `gofmt` |
