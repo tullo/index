@@ -45,6 +45,7 @@
 | [otel-workshop](https://github.com/tullo/otel-workshop) | OpenTelemetry instrumentation of code for tracing and metrics collection using different exporters: Aspecto, Datadog, Elastic, Honeycomb, Instana, Lightstep, LogicMonitor, New Relic, SigNoz, Sentry, Splunk, Sumo Logic, Uptrace |
 | [proxercise](https://github.com/tullo/proxercise/tree/main/go) | Examples, Exercises, Quizzes, Go cheat-sheet, Useful Terminal Control Sequences |
 | [search](https://github.com/tullo/search) | Simple frontend to the sales-api service |
+| [serve](https://github.com/amstutzit/serve) | Go http server with a flags for enabling gzip and http2 |
 | [service](https://github.com/tullo/service) | Go service starter kit is a starting point for building production grade scalable web service applications |
 | [shippy](https://github.com/tullo/shippy) | microservice, protobuf, grpc-go, Bootstrap4, MongoDB, PostgreSQL,, Reactjs |
 | [short](https://github.com/tullo/short) | A short-link server Go application, powered by CockroachDB |
